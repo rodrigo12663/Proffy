@@ -14,7 +14,7 @@
     
     padding: 1.6rem;
 }
-.page-header .top-bar-container > img{
+#proffy{
     height: 1.6rem;
 }
 .page-header .top-bar-container a{
@@ -38,6 +38,8 @@
    line-height: 4.2rem;
    color: var(--color-title-in-primary);
  }
+ 
+
 
 
  @media(min-width: 700px) {
