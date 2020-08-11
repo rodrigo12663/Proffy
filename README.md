@@ -106,7 +106,4 @@ export async function down(knex: Knex){
 </body>
 </html>
 
-=======
-# Proffy
->>>>>>> 59fa76952cf6ef5f10fe3c76fe4c3c9554cac552
 
